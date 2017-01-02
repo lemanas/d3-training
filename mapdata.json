@@ -1,0 +1,26 @@
+{
+    "name": "Countries",
+    "value": 651,
+    "children": [
+        {
+            "name": "Eastern Europe",
+            "value": 442,
+            "children": [
+                {"name": "Lithuania", "value": 29},
+                {"name": "Latvia", "value": 20},
+                {"name": "Estonia", "value": 13},
+                {"name": "Poland", "value": 380}
+            ]
+        },
+        {
+           "name": "Nordic Europe",
+            "value": 209,
+            "children": [
+                {"name": "Sweden", "value": 99},
+                {"name": "Iceland", "value": 3},
+                {"name": "Finland", "value": 55},
+                {"name": "Norway", "value": 52}
+            ] 
+        }
+    ]
+}
