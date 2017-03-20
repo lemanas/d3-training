@@ -1,7 +1,7 @@
 {
-  "name": "TT-Dashboard",
+  "name": "d3training",
   "version": "1.0.0",
-  "description": "Travel and tourism dashboard.",
+  "description": "d3training",
   "scripts": {
     "start": "lite-server"
   },
